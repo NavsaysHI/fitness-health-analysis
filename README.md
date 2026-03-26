@@ -9,12 +9,12 @@ calorie burn and how training habits differ across experience levels and workout
 ---
 
 ## Key Findings
-- 🔥 **Session duration is the #1 driver of calories burned** — a clear linear 
+-  **Session duration is the #1 driver of calories burned** — a clear linear 
   relationship regardless of workout type
-- 💪 **Experts burn 74% more calories than beginners** (1,265 vs 726 avg calories)
-- 🧘 **Yoga burns nearly as many calories as HIIT** — only 22 calories difference 
+-  **Experts burn 74% more calories than beginners** (1,265 vs 726 avg calories)
+-  **Yoga burns nearly as many calories as HIIT** — only 22 calories difference 
   on average (903 vs 926)
-- 🏃 **All four workout types perform similarly** when session duration is equal
+-  **All four workout types perform similarly** when session duration is equal
 
 ---
 
