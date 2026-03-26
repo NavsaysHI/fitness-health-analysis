@@ -1,4 +1,4 @@
-# 🏋️ Global Fitness & Health Analysis
+#  Global Fitness & Health Analysis
 
 ## Project Overview
 Analysis of 973 gym members' exercise and health data to uncover what drives 
